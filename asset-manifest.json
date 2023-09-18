@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/phuongnam201/newapp/static/css/main.80c9327d.css",
-    "main.js": "/phuongnam201/newapp/static/js/main.834b2a05.js",
-    "static/js/787.66a4299e.chunk.js": "/phuongnam201/newapp/static/js/787.66a4299e.chunk.js",
-    "static/media/back.webp": "/phuongnam201/newapp/static/media/back.93d3f802b480eeabae07.webp",
-    "static/media/awrapper.webp": "/phuongnam201/newapp/static/media/awrapper.031ce77a398171427673.webp",
-    "static/media/bg.webp": "/phuongnam201/newapp/static/media/bg.baa1024a4ae092566a75.webp",
-    "index.html": "/phuongnam201/newapp/index.html",
-    "main.80c9327d.css.map": "/phuongnam201/newapp/static/css/main.80c9327d.css.map",
-    "main.834b2a05.js.map": "/phuongnam201/newapp/static/js/main.834b2a05.js.map",
-    "787.66a4299e.chunk.js.map": "/phuongnam201/newapp/static/js/787.66a4299e.chunk.js.map"
+    "main.css": "/newapp/static/css/main.b91ffbcd.css",
+    "main.js": "/newapp/static/js/main.3ac377ee.js",
+    "static/js/787.66a4299e.chunk.js": "/newapp/static/js/787.66a4299e.chunk.js",
+    "static/media/back.webp": "/newapp/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/newapp/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/newapp/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/newapp/index.html",
+    "main.b91ffbcd.css.map": "/newapp/static/css/main.b91ffbcd.css.map",
+    "main.3ac377ee.js.map": "/newapp/static/js/main.3ac377ee.js.map",
+    "787.66a4299e.chunk.js.map": "/newapp/static/js/787.66a4299e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80c9327d.css",
-    "static/js/main.834b2a05.js"
+    "static/css/main.b91ffbcd.css",
+    "static/js/main.3ac377ee.js"
   ]
 }
